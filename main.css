@@ -1,0 +1,57 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+}
+
+body {
+    background-color: #000000;
+    color: #20C20E;
+    font-size: 18px;
+    font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+}
+
+
+section {
+    margin: 0px;
+    text-align: center;
+    align-content: center;
+    -webkit-align-content: center;
+}
+
+footer {
+    margin-top: 25px;
+}
+
+a, a:link, a:visited {
+    color: #92F887;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    color: #11500A;
+    text-decoration: none;
+    display: inline-block;
+}
+
+p {
+    margin-left: 80px;
+    display: inline;
+}
+
+textarea {
+    color: #20C20E;
+    background-color: #000000;
+    border: 0px;
+    resize: none;
+    font-size: 18px;
+    white-space: pre-line;
+    font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+    text-align: left;
+}
+
+pre {
+    font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+}
